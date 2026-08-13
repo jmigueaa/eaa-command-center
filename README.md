@@ -129,6 +129,3 @@ EAA Command Center — built for the people who keep executives operational.
 
 ---
 
-## License
-
-MIT — free to use, modify, and distribute.
